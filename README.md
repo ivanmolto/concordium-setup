@@ -31,7 +31,16 @@ As everything is correct when entered the command `cargo concordium --help` it s
 
 ## Install concordium-client
 
-![](celo-meme-1-love-is-too-beautiful.png)
+Download and installl concordium-client. As it is all correct we see the image below when checking the installation:
+
+![](concordium-06-concordium-client.png)
+
+
+You can connect to the public node with the following command `concordium-client consensus status --grpc-port 10000 --grpc-ip node.testnet.concordium.com` as in the image below:
+
+![](concordium-5-concordium-client.png)
+
+
 
 ---
 
