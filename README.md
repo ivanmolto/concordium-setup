@@ -22,7 +22,10 @@ Later we install Wasm:
 
 ## Install cargo-concordium
 
-![](celo-meme-1-love-is-too-beautiful.png)
+Now we need to download and install the version 2.7.0 or greater of cargo-concordium.
+As everything is correct when entered the command `cargo concordium --help` it shows: 
+
+![](concordium-04-cargo-concordium.png)
 
 ---
 
