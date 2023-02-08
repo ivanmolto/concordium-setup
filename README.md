@@ -62,7 +62,7 @@ And create an identity from the Concordium Testnet IP.
 
 We use the Tesnet faucet to claim 2000 CCD
 
-![](concordium-09-create-testnet-faucet.png)
+![](concordium-09-ccd-faucet.png)
 
 ---
 
