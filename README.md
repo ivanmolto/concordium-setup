@@ -40,31 +40,35 @@ You can connect to the public node with the following command `concordium-client
 
 ![](concordium-5-concordium-client.png)
 
-
-
 ---
 
 ## Install the Web Wallet
 
-![](celo-meme-1-love-is-too-beautiful.png)
+We will use the Concordium Wallet for Web which is a chromium-based browser extension. 
 
----
+![](concordium-07-create-testnet-identity.png)
 
-## Create a Testnet account
 
-![](celo-meme-1-love-is-too-beautiful.png)
+## Create a Testnet account 
+
+And create an identity from the Concordium Testnet IP.
+
+
+![](concordium-08-create-testnet-address.png)
 
 ---
 
 ## Acquiring testnet CCD via the CCD faucet
 
-![](celo-meme-1-love-is-too-beautiful.png)
+We use the Tesnet faucet to claim 2000 CCD
+
+![](concordium-09-create-testnet-faucet.png)
 
 ---
 
 ## Export the account from web wallet and import it into concordium-client
 
-![](celo-meme-1-love-is-too-beautiful.png)
+![](concordium-10-export-account.png)
 
 ---
 
