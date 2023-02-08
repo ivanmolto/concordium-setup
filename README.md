@@ -14,7 +14,7 @@ When Rust and Cargo are successfull installed in the computer, we see this:
 
 ![](concordium-02-install-rust.png)
 
-Later we installed Wasm
+Later we install Wasm:
 
 ![](concordium-03-install-wasm.png)
 
