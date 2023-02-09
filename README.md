@@ -2,6 +2,8 @@
 
 Concordium Mainnet address: 3NZdVKXwPzAKQ1a7TnZrcnkGezeAmcQVEYHv4AJuCGeqzBZSMK
 
+Setup development environment for [Concordium](https://concordium.com) Hackathon - The Future of Identity at [Gitcoin](https://gitcoin.co)
+
 
 ## Install Rust and Cargo
 
@@ -67,6 +69,14 @@ We use the Tesnet faucet to claim 2000 CCD
 ---
 
 ## Export the account from web wallet and import it into concordium-client
+
+Import the key into the concordium-client configuration by moving your `<YOUR PUBLIC ADDRESS>.export` to the part where we are running the concordium-client tool.
+
+And run in the terminal 
+`concordium-client config account import <YOUR PUBLIC ADDRESS>.export --name <Your-Wallet-Name>`
+
+Where <Your-Wallet-Name> is the name that we want to give to the wallet, which is the name
+we can use later when interacting with the account through the client.
 
 ![](concordium-10-export-account.png)
 
